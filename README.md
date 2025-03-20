@@ -24,7 +24,7 @@ Fixed Deposits : CUstomer can add the Fixed Deposits through the Application.
 Logout : Once customer can logged out he/she can't be use the Application.
 
 
-### Technologies Used :-
+## Technologies Used :-
 
 Java Server Page (JSP),
 
@@ -43,8 +43,8 @@ MySQL database,
 Tomcat Server
 
 
-### Images
+## Images
 
 
-### Video :-
+## Video :-
 
