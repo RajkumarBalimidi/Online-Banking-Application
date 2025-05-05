@@ -19,7 +19,7 @@ Received History : Customer can check the Received History if the customer logge
 
 Check Loans : Customer can check the Loans History which he/she taken. And also customer can able to pay the Loan and also can check the Loan Paid History.
 
-Fixed Deposits : CUstomer can add the Fixed Deposits through the Application.
+Fixed Deposits : Customer can add the Fixed Deposits through the Application.
 
 Logout : Once customer can logged out he/she can't be use the Application.
 
@@ -32,9 +32,7 @@ Cascading Style Sheets (CSS),
 
 Javascript (JS),
 
-Hibernate Manager (JDBC)
-
-Spring (JSP),
+Hibernate Manager,
 
 Spring MVC,
 
