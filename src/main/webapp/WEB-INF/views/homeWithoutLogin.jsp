@@ -101,7 +101,7 @@
     <div class="content">
         <img src="https://media.istockphoto.com/id/1277143096/id/foto/tanda-bank-pada-bangunan-kaca-modern-render-3d.jpg?s=170667a&w=0&k=20&c=yZnHWAKP_PL3EO1L0_5tSOrHQHh2nRKI8pVqh5SLNX8=" alt="Bank Image">
         <div class="text">
-            <h3>Bank Explanation</h3>
+            <h3>Bank Summary</h3>
             <p>Save Money Bank is a trusted financial institution providing secure banking services.</p>
 
             <h3>Bank Details</h3>

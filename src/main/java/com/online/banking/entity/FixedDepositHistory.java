@@ -60,7 +60,7 @@ public class FixedDepositHistory {
      private double totalAmountFD;
      
      @Column(name="status")
-     private String status;
+     private String status = "Opened";
      
      @ManyToOne
      @JoinColumn(name="accNo")

@@ -160,11 +160,10 @@ body {
     <!-- Main Content -->
     <div class="content">
     	<ul>
-    		<li>💰 "Banking was conceived in iniquity and born in sin." – Josiah Stamp</li>
-    		<li>🏦 "A bank is a place that will lend you money if you can prove that you don’t need it." – Bob Hope</li>
-    		<li>💳 "The safest way to double your money is to fold it over and put it in your pocket." – Kin Hubbard</li>
-    		<li>📈 "It is well enough that people do not understand the banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." – Henry Ford</li>
-    		<li>💵 "Banks lend by creating credit. They create the means of payment out of nothing." – Ralph M. Hawtrey</li>
+    		<li>💰 "Bank can used to save the money. It is user friendly application"</li>
+    		<li>🏦 "A bank is a place that will lend you money if you can prove that you need it."</li>
+    		<li>💳 "The safest way to double your money is to fold it over and put it in Bank."</li>
+    		<li>📈 "It is well enough that people do understand the banking and monetary system"</li>
     	</ul>
     </div>
  
